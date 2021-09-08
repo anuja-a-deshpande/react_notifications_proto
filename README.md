@@ -1,1 +1,1 @@
-# -react_notifications_proto
+# react_notifications_proto
